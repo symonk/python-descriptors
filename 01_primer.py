@@ -41,7 +41,7 @@ class DescriptorUser:
 
 
 def main():
-    """Fetch the value of the basic descriptor.
+    """Tests:
     >>> DescriptorUser().one_hundred == 100
     True
     >>> DescriptorUser().one_hundred == 101
